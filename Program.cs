@@ -8,8 +8,7 @@ namespace Hilo
     {
         static void Main(string[] args)
         {
-           Director director =new Director();
-           Card card = new Card();
+            Director director = new Director();
         }
 
     }
